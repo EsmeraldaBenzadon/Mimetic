@@ -1,0 +1,10 @@
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\bin\Debug\linq_prueba.exe.config
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\bin\Debug\linq_prueba.exe
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\bin\Debug\linq_prueba.pdb
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.csprojAssemblyReference.cache
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.Form1.resources
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.Properties.Resources.resources
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.csproj.GenerateResource.cache
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.csproj.CoreCompileInputs.cache
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.exe
+C:\Users\47431890\source\repos\linq_prueba\linq_prueba\obj\Debug\linq_prueba.pdb
