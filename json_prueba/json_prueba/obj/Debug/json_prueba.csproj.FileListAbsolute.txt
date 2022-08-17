@@ -1,0 +1,10 @@
+C:\Users\47431890\source\repos\json_prueba\json_prueba\bin\Debug\json_prueba.exe.config
+C:\Users\47431890\source\repos\json_prueba\json_prueba\bin\Debug\json_prueba.exe
+C:\Users\47431890\source\repos\json_prueba\json_prueba\bin\Debug\json_prueba.pdb
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\json_prueba.csprojAssemblyReference.cache
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\User.resources
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\json_prueba.Properties.Resources.resources
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\json_prueba.csproj.GenerateResource.cache
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\json_prueba.csproj.CoreCompileInputs.cache
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\json_prueba.exe
+C:\Users\47431890\source\repos\json_prueba\json_prueba\obj\Debug\json_prueba.pdb
